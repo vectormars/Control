@@ -10,7 +10,7 @@ PID stands for **P**roportional **I**ntegral **D**erivative
 ![Alt Text](images/PIDforDummies_pid_simplified.png)
 
 PID Python Example:
-[Eg1](PID_Python/PID.ipynb), [Eg2_Simple](PID_Python/PID_Simple.ipynb), [Eg3_Compare](PID_Python/PID_Variable_Comparision.ipynb)
+[Eg1](Code/PID.ipynb), [Eg2_Simple](Code/PID_Simple.ipynb), [Eg3_Compare](Code/PID_Variable_Comparision.ipynb)
 
 Imagine a robot that travels at full speed, and we want to stop it.
 ### P
