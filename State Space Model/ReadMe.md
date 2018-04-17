@@ -1,3 +1,10 @@
+### State Space model
+[Eg](Code/SS_Model.ipynb), [Eg_Linearization](Code/Linearization_Automobile.ipynb)
+
+### Model Simulation
+[Eg](Code/Dynamic%20Simulation.ipynb), [Eg_Time_Delay](Code/Time%20Delay.ipynb.ipynb)
+
+
 ### Solve Differential Equations in Python
 Differential equations are solved in Python with the Scipy.integrate package using function ODEINT. ODEINT requires three inputs:      
 ```
