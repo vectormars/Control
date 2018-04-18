@@ -2,7 +2,7 @@
 [Eg](Code/SS_Model.ipynb), [Eg_Linearization](Code/Linearization_Automobile.ipynb)
 
 ### Model Simulation
-[Eg](Code/Dynamic%20Simulation.ipynb), [Eg_Time_Delay](Code/Time%20Delay.ipynb.ipynb)
+[Eg](Code/Dynamic%20Simulation.ipynb), [Eg_Time_Delay](Code/Time%20Delay.ipynb)
 
 
 ### Solve Differential Equations in Python
