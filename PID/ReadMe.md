@@ -14,7 +14,7 @@ PID Python Example:
 
 Imagine a robot that travels at full speed, and we want to stop it.
 ### P
-P controller controls the speed smoothly, allowing it to slow down as it approaches it's targettarget, to shrink the overshoot.
+P controller controls the speed smoothly, allowing it to slow down as it approaches it's target, to shrink the overshoot.
 
 That's why it is called a proportional controller – the output speed is proportional to the value remaining to be changed, which we call an **error**.
 ```
@@ -34,9 +34,10 @@ Example of error:
 You may see the error oscillating, overshooting then over-correcting.
 
 ### I
-So the proportional part of the code has got it so that the error remaining is pretty small.
+So the proportional part of the code has got it so that the **error remaining** is pretty small.
 Too small for the proportional section to make much of a difference. This is where the
 integral comes in. 
+
 The integral is the *running sum of previous errors*.
 ```
 error = (target value) – (sensor reading);
@@ -124,7 +125,7 @@ while (condition){
 Restrain the amount of time the integral is allowed to build up in. This would a little more complicated to program, but still possible.
 
 ### D
-The job of the derivative is to predict the future value for the error, and then make the speed act accordingly. For example, if it thinks it will overshoot, it will slow it down.
+The job of the derivative is to **predict** the future value for the error, and then make the speed act accordingly. For example, if it thinks it will overshoot, it will slow it down.
 ```
 derivative = ( (current error) – (previous error) ) / dT
 ```
