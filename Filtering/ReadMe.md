@@ -8,3 +8,7 @@
 1. [g-h filter introduction](Code/G-H%20filter%20introduction.ipynb)  
 2. [g-h filter](Code/G-H%20filter.ipynb)
 3. [g-h filter Train example](Code/G-H%20filter%20Train%20example.ipynb)
+
+
+
+Based on: [Kalman-and-Bayesian-Filters-in-Python](https://github.com/vectormars/Kalman-and-Bayesian-Filters-in-Python)
