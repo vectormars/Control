@@ -5,5 +5,6 @@
 * The new estimate is then chosen as part way between the prediction and next measurement scaled by how accurate each is.
 
 ### g-h filter
-1. g-h filter introduction  
-2. g-h filter
+1. [g-h filter introduction](Code/G-H%20filter.ipynb)  
+2. [g-h filter](Code/G-H%20filter.ipynb)
+3. [g-h filter Train example](Code/G-H%20filter%20Train%20example.ipynb)
