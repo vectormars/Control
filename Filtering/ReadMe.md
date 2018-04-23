@@ -21,12 +21,22 @@ ________________________________________________________________________________
 
 ### Discrete Bayes Filter
 The Kalman filter belongs to a family of filters called Bayesian filters.
+1. [Introduction](Code/Discrete%20Bayes%20Filter-Intro.ipynb)
+2. [Algorithm](Code/Discrete%20Bayes%20Algorithm.ipynb)
 
+### One Dimensional Kalman Filters
+1. [1D Gaussians](Code/Gaussians.ipynb)
+2. [Bayes Theorem](Code/Bayes%20Theorem.ipynb)
+3. [Introduction](Code/One-Dimensional-Kalman-Filters-Intro.ipynb)
+4. [Algorithm](Code/One-Dimensional-Kalman-Filters.ipynb)
 
-
-
-
-
+### Multivariate Kalman Filters
+1. [Correlation and Covariance](Code/Multivariate%20Gaussians-Correlation%20and%20Covariance.ipynb)
+2. [Equations](Code/Multivariate%20Kalman%20Filters-Equations.ipynb)
+3. [Multiplying](Code/Multivariate%20Gaussians-Multiplying.ipynb)
+4. [Hidden Variables](Code/Multivariate%20Gaussians-Hidden%20Variables.ipynb)
+5. [Introduction](Code/Multivariate%20Kalman%20Filters-Introduction.ipynb)
+6. [Algorithm](Code/Multivariate%20Kalman%20Filters-Equations.ipynb)
 
 
 
