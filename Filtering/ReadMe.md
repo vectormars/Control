@@ -32,4 +32,4 @@ The Kalman filter belongs to a family of filters called Bayesian filters.
 
 ________________________________________________________________________________________________________________________
 
-Based on: [Kalman-and-Bayesian-Filters-in-Python](https://github.com/vectormars/Kalman-and-Bayesian-Filters-in-Python)
+Based on: [Kalman-and-Bayesian-Filters-in-Python](https://github.com/rlabbe/Kalman-and-Bayesian-Filters-in-Python)
