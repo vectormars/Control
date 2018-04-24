@@ -1,4 +1,4 @@
-## Fuzzy Inference Systems
+## Fuzzy Logic Systems
 
 #### Example
 We provide the same two-input one-output three-rule tipping problem.   
