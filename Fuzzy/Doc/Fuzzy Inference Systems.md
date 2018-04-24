@@ -37,4 +37,5 @@ There are five built-in methods supported: centroid, bisector, middle of maximum
 ![Alt Text](../images/defuzzif.gif)
 
 
-
+### Summary
+![Alt Text](../images/mamdani_.gif)
