@@ -1,6 +1,6 @@
 ### Fuzzy Sets
 ### Membership Functions
-### [Logical Operations](../Doc/Logical%20Operations.md)
+### [Logical Operations](Doc/Logical%20Operations.md)
 ### If-Then Rules
 ![Alt Text](images/if-then_.gif) 
 
