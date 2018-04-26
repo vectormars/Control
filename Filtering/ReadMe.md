@@ -42,8 +42,8 @@ The Kalman filter belongs to a family of filters called Bayesian filters.
 ### Smoothing
 1. [Introduction](Code/Smoothing.ipynb)
 2. [Fixed-Interval Smoothing](Code/Smoothing_Fixed_Interval.ipynb)
-3. [Fixed-Lag Smoothing](Code/Smoothing_Fixed_Interval.ipynb)
-4. [Fixed-Point Smoothing](Code/Smoothing_Fixed_Interval.ipynb)
+3. [Fixed-Lag Smoothing](Code/Smoothing_Fixed_Lag.ipynb)
+4. Fixed-Point Smoothing
 ________________________________________________________________________________________________________________________
 
 Based on:        
