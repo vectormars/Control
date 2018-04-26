@@ -39,7 +39,12 @@ The Kalman filter belongs to a family of filters called Bayesian filters.
 6. [Algorithm](Code/Multivariate%20Kalman%20Filters-Equations.ipynb)
 
 
-
+### Smoothing
+1. [Introduction](Code/Smoothing.ipynb)
+2. [Fixed-Interval Smoothing](Code/Smoothing_Fixed_Interval.ipynb)
+3. [Fixed-Lag Smoothing](Code/Smoothing_Fixed_Interval.ipynb)
+4. [Fixed-Point Smoothing](Code/Smoothing_Fixed_Interval.ipynb)
 ________________________________________________________________________________________________________________________
 
-Based on: [Kalman-and-Bayesian-Filters-in-Python](https://github.com/rlabbe/Kalman-and-Bayesian-Filters-in-Python)
+Based on:        
+[Kalman-and-Bayesian-Filters-in-Python](https://github.com/rlabbe/Kalman-and-Bayesian-Filters-in-Python)
