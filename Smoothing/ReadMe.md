@@ -11,7 +11,7 @@
 * Low-pass filter
 * Moving average
 * Ramer–Douglas–Peucker algorithm
-* Savitzky–Golay smoothing filter based on the least-squares fitting of polynomials to segments of the data
+* Savitzky–Golay smoothing filter 
 * Smoothing spline
 * Stretched grid method
 
