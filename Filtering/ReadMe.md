@@ -32,7 +32,7 @@ The Kalman filter belongs to a family of filters called Bayesian filters.
 
 ### Multivariate Kalman Filters
 1. [Correlation and Covariance](Code/Multivariate%20Gaussians-Correlation%20and%20Covariance.ipynb)
-2. [Equations](Code/Multivariate%20Kalman%20Filters-Equations.ipynb)
+2. [Multivariate Normal Distribution Equation](Code/Multivariate%20Gaussians-Equations.ipynb)
 3. [Multiplying](Code/Multivariate%20Gaussians-Multiplying.ipynb)
 4. [Hidden Variables](Code/Multivariate%20Gaussians-Hidden%20Variables.ipynb)
 5. [Introduction](Code/Multivariate%20Kalman%20Filters-Introduction.ipynb)
