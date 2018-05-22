@@ -47,7 +47,7 @@ The Kalman filter belongs to a family of filters called Bayesian filters.
 
 ### Adaptive filtering
 1. [Introduction](Code/Adaptive%20Filtering%20-%20Introduction.ipynb)      
-2. [Detecting a Maneuver]()
+2. [Detecting a Maneuver](Code/Adaptive%20Filtering-Detecting%20a%20Maneuver.ipynb)
 
 
 ________________________________________________________________________________________________________________________
